@@ -10,6 +10,7 @@ comments: true
 
 
 If you need to
+
 * weight a sample so it's more representative of the target population
 * or do causal inference with observation data,
 
@@ -17,5 +18,5 @@ please check out our python library for empirical calibration:
 * [github](https://github.com/google/empirical_calibration)
 * Wang, Xiaojing, Miao, Jingang, and Sun, Yunting. (2019).
   A Python Library For Empirical Calibration.
-  [https://arxiv.org/abs/1906.11920](https://arxiv.org/abs/1906.11920).
+  [*arXiv preprint arXiv:1906.11920*](https://arxiv.org/abs/1906.11920).
 
