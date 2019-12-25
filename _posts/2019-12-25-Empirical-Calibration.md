@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Empirical Calibration
-subtitle: Each post also has a subtitle
+subtitle: A Python Library For Empirical Calibration
 gh-repo: miaojingang/miaojingang.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-https://github.com/google/empirical_calibration
 
 If you need to
 *weight a sample so it's more representative of the target population
