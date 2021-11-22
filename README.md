@@ -12,7 +12,30 @@ AI fairness, privacy, and predictive modeling.
 
 
 ## Selected work
+
+### At Facebook
+
+>  Rachad Alao, Miranda Bogen, Jingang Miao, Ilya Mironov, Jonathan Tannen.
+(2011). How Meta is working to assess fairness in relation
+to race in the U.S. across its products and systems.
+[pdf](https://scontent-lga3-1.xx.fbcdn.net/v/t39.8562-6/255703685_597327124875926_1112057322177305099_n.pdf?_nc_cat=102&ccb=1-5&_nc_sid=ae5e01&_nc_ohc=zLv9LGgGym4AX8fpWAy&_nc_ht=scontent-lga3-1.xx&oh=ea1da24877ea568ef0804065ee0da5b9&oe=619C992F)
+
 > Jingang Miao, Yiming Paul Li. (2021). Privacy Preserving Inference on
  the Ratio of Two Gaussians Using (Weighted) Sums.
 [arXiv:2110.15449](https://arxiv.org/abs/2110.15449).
 [github](https://github.com/miaojingang/private_ratio)
+
+> An R and Python implementation of methods
+for estimating subgroup means under misclassification.
+[github](https://github.com/facebookresearch/mc)
+
+### At Google
+> Wang, Xiaojing, Liu, Tianqi, and Miao, Jingang. (2019).
+A Deep Probabilistic Model for Customer Lifetime Value Prediction.
+[arXiv:1912.07753](https://arxiv.org/abs/1912.07753)
+[github](https://github.com/google/lifetime_value)
+
+> Wang, Xiaojing, Miao, Jingang, and Sun, Yunting. (2019).
+A Python Library For Empirical Calibration.
+[arXiv:1906.11920](https://arxiv.org/abs/1906.11920)
+[github](https://github.com/google/empirical_calibration)
