@@ -16,9 +16,9 @@ AI fairness, privacy, and predictive modeling.
 ### At Facebook
 
 >  Rachad Alao, Miranda Bogen, Jingang Miao, Ilya Mironov, Jonathan Tannen.
-(2021). How Meta is working to assess fairness in relation
-to race in the U.S. across its products and systems.
-[pdf](https://scontent-lga3-1.xx.fbcdn.net/v/t39.8562-6/255703685_597327124875926_1112057322177305099_n.pdf?_nc_cat=102&ccb=1-5&_nc_sid=ae5e01&_nc_ohc=zLv9LGgGym4AX8fpWAy&_nc_ht=scontent-lga3-1.xx&oh=ea1da24877ea568ef0804065ee0da5b9&oe=619C992F)
+(2021). [How Meta is working to assess fairness in relation
+to race in the U.S. across its products and systems]
+(https://ai.facebook.com/research/publications/how-meta-is-working-to-assess-fairness-in-relation-to-race-in-the-us-across-its-products-and-systems).
 
 > Jingang Miao, Yiming Paul Li. (2021). Privacy Preserving Inference on
  the Ratio of Two Gaussians Using (Weighted) Sums.
