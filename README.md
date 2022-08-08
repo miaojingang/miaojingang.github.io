@@ -21,7 +21,7 @@ AI fairness, privacy, and predictive modeling.
 (2021). [How Meta is working to assess fairness in relation to race in the U.S. across its products and systems](https://ai.facebook.com/research/publications/how-meta-is-working-to-assess-fairness-in-relation-to-race-in-the-us-across-its-products-and-systems).
 
 > Miao, J., & Li, Y. P. (2022). Privacy-Preserving Inference on the Ratio of Two Gaussians Using Sums. Journal of Data Science, 1-16.
-[paper]([https://arxiv.org/abs/2110.15449](https://jds-online.org/journal/JDS/article/1281/info)),
+[paper](https://jds-online.org/journal/JDS/article/1281/info),
 [github](https://github.com/miaojingang/private_ratio).
 
 > An R and Python implementation of methods
