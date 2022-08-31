@@ -1,6 +1,6 @@
 # Jingang Miao
 
-This is for [my website](https://miaojingang.github.io/).
+<!--  This is for my personal page https://miaojingang.github.io/. -->
 
 (
     [github](https://github.com/miaojingang),
