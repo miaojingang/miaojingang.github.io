@@ -32,7 +32,8 @@ for estimating subgroup means under misclassification.
 > Wang, Xiaojing, Liu, Tianqi, and Miao, Jingang. (2019).
 A Deep Probabilistic Model for Customer Lifetime Value Prediction.
 [arXiv:1912.07753](https://arxiv.org/abs/1912.07753).
-[github](https://github.com/google/lifetime_value)
+[github](https://github.com/google/lifetime_value),
+[blog post by Maja Pavlovic](https://towardsdatascience.com/the-paper-a-deep-probabilistic-model-for-customer-lifetime-value-prediction-eb5d61a83ecd).
 
 > Wang, Xiaojing, Miao, Jingang, and Sun, Yunting. (2019).
 A Python Library For Empirical Calibration.
