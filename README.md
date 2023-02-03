@@ -17,7 +17,7 @@ AI fairness, privacy, and predictive modeling.
 
 ### At Meta/Facebook
 
-> Meta created [a system to ensure ads are delivered fairly to different demographic groups](https://ai.facebook.com/blog/advertising-fairness-variance-reduction-system-vrs/), as part of its [settlement with the Department of Justice (DOJ) and the Department of Housing and Urban Development (HUD](https://about.fb.com/news/2023/01/an-update-on-our-ads-fairness-efforts/). I proposed the measurement metric (shuffle distance) and the Differential Privacy (DP) mechanisms.
+> Meta created [a system to ensure ads are delivered fairly to different demographic groups](https://ai.facebook.com/blog/advertising-fairness-variance-reduction-system-vrs/), as part of its [settlement with the Department of Justice (DOJ) and the Department of Housing and Urban Development (HUD)](https://about.fb.com/news/2023/01/an-update-on-our-ads-fairness-efforts/). I proposed the measurement metric (shuffle distance) and the Differential Privacy (DP) mechanisms.
 
 >  Rachad Alao, Miranda Bogen, Jingang Miao, Ilya Mironov, Jonathan Tannen.
 (2021). [How Meta is working to assess fairness in relation to race in the U.S. across its products and systems](https://ai.facebook.com/research/publications/how-meta-is-working-to-assess-fairness-in-relation-to-race-in-the-us-across-its-products-and-systems). [blog post](https://ai.facebook.com/blog/assessing-fairness-of-our-products-while-protecting-peoples-privacy/).
