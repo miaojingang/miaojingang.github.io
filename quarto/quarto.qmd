@@ -1,0 +1,105 @@
+---
+title: "Intro to "
+author: "Jingang Miao"
+format:
+  revealjs: 
+    chalkboard: 
+      buttons: false
+    theme: dark
+    preview-links: auto
+    show-slide-number: print
+    scrollable: true
+    fig-width: 6
+    fig-height: 6
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Incremental lists
+
+
+::: {.incremental}
+- Eat spaghetti
+- Drink wine
+:::
+
+## Multiple ::: {.columns}
+:::: {.columns}
+
+::: {.column width="40%"}
+Left column
+:::
+
+::: {.column width="60%"}
+Right column
+:::
+
+::::
+::: <!-- end columns -->
+
+
+## Srollable
+
+* 1
+* 1
+* 1
+* 1
+* 1
+* 1
+* 1
+* 1
+* 1
+* 1
+* 1
+* 1
+
+# Code and Line Highlighting
+
+```{.python code-line-numbers="|1,2|9"}
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```
+
+# Executable Code
+
+```{python}
+#| code-line-numbers: "|6|9"
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```
+
+# Tabsets
+::: {.panel-tabset}
+
+### Tab A
+
+Content for `Tab A`
+
+### Tab B
+
+Content for `Tab B`
+
+:::
