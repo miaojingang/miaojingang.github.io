@@ -103,3 +103,15 @@ Content for `Tab A`
 Content for `Tab B`
 
 :::
+
+## Latex
+
+* $\LaTex$: $\alpha + \beta$
+
+$$
+\begin{aligned}
+f(x) &\approx f(0) + f'(0)(x-0) \\
+&= \ln(1) + 1\cdot x  \\
+&= x.
+\end{aligned}
+$$
