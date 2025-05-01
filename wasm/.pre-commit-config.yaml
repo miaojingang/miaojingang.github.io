@@ -1,0 +1,14 @@
+default_language_version:
+  python: python3.10
+
+repos:
+- repo: https://github.com/astral-sh/ruff-pre-commit
+  rev: v0.8.0 # Ruff version.
+  hooks:
+    # Enforce linting (and fix any fixable errors).
+    - id: ruff
+      args: [ --fix ]
+
+    # Enforce formatting.
+    - id: ruff-format
+
